@@ -8,6 +8,6 @@ Go to ➡️: [Section 4](./Section_4/)<br />
 
 # Section 2 practice codes:
 
-[Section 2.1](./Section_2/2.1 Heading Element/index.html)
+[Section 2.1](./Section_2/2.1_Heading_Element/index.html)
 
 The codes and files will be updated over time.
