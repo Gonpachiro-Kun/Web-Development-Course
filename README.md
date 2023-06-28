@@ -6,4 +6,8 @@ Go to ➡️: [Section 2](./Section_2/)<br />
 Go to ➡️: [Section 3](./Section_3/)<br />
 Go to ➡️: [Section 4](./Section_4/)<br />
 
+# Section 2 practice codes:
+
+[Section 2.1](./Section_2/2.1 Heading Element/index.html)
+
 The codes and files will be updated over time.
