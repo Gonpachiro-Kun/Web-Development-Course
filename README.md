@@ -21,8 +21,8 @@ Go to ➡️: [Section 4](./Section_4/)<br />
 
 # Section 4 practice codes:
 
-[Section 4.0](./Section_3/3.0_List_Elements/index.html) <br />
-[Section 4.1](./Section_3/3.1_Nesting_and_Indentation/index.html) <br />
-[Section 4.2](./Section_3/3.2_Anchor_Elements/index.html) <br />
+[Section 4.0](./Section_4/4.0_File_Paths/Folder0/Folder3/index.html) <br />
+[Section 4.1](./Section_4/4.1_Webpages/index.html) <br />
+[Section 4.2](./Section_4/4.2_HTML_Boiler_Plate/index.html) <br />
 
 The codes and files will be updated over time.
