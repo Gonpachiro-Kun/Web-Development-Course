@@ -29,6 +29,10 @@ This section will have all the codes that were taught in the section
 - [Section 4.1](./Section_4/4.1_Webpages/index.html) <br />
 - [Section 4.2](./Section_4/4.2_HTML_Boiler_Plate/index.html) <br />
 
+### Section 5 practice codes:
+
+- [Section 5.0](./Section_5/5.1_Adding_CSS/index.html) <br />
+
 ## Projects
 
 Here are the projects that were made by me in the duration of the course:
