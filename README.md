@@ -5,6 +5,7 @@ This Repository contains all the projects and practice exercises that are there 
 Go to ➡️: [Section 2](./Section_2/)<br />
 Go to ➡️: [Section 3](./Section_3/)<br />
 Go to ➡️: [Section 4](./Section_4/)<br />
+Go to ➡️: [Section 5](./Section_5/)<br />
 
 ## Practice Codes
 
@@ -32,6 +33,7 @@ This section will have all the codes that were taught in the section
 ### Section 5 practice codes:
 
 - [Section 5.0](./Section_5/5.1_Adding_CSS/index.html) <br />
+- [Section 5.3](./Section_5/5.3_CSS_Selectors/index.html) <br />
 
 ## Projects
 
