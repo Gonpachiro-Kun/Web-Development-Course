@@ -1,6 +1,6 @@
 # Web Development
  
-This Repository contains all the projects and practice exercises that are there in the course "The Complete 2023 Web Development Bootcamp" by Angela Yu
+This Repository contains all the projects and practice exercises that are there in the course ['The Complete 2023 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
 
 Go to ➡️: [Section 2](./Section_2/)<br />
 Go to ➡️: [Section 3](./Section_3/)<br />
