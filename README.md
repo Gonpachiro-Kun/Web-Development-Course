@@ -35,6 +35,10 @@ This section will have all the codes that were taught in the section
 - [Section 5.0](./Section_5/5.1_Adding_CSS/index.html) <br />
 - [Section 5.3](./Section_5/5.3_CSS_Selectors/index.html) <br />
 
+### Section 6 practice codes:
+
+- [Section 6.0](./Section_6/6.0_CSS_Colors/index.html) <br />
+
 ## Projects
 
 Here are the projects that were made by me in the duration of the course:
