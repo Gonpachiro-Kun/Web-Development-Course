@@ -39,6 +39,7 @@ This section will have all the codes that were taught in the section
 ### Section 6 practice codes:
 
 - [Section 6.0](./Section_6/6.0_CSS_Colors/index.html) <br />
+- [Section 6.1](./Section_6/6.1_Font_Properties/index.html) <br />
 
 ## Projects
 
