@@ -6,6 +6,7 @@ Go to ➡️: [Section 2](./Section_2/)<br />
 Go to ➡️: [Section 3](./Section_3/)<br />
 Go to ➡️: [Section 4](./Section_4/)<br />
 Go to ➡️: [Section 5](./Section_5/)<br />
+Go to ➡️: [Section 6](./Section_6/)<br />
 
 ## Practice Codes
 
