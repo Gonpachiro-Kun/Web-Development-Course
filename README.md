@@ -12,6 +12,8 @@ Go to ➡️: [Section 6](./Section_6/)<br />
 
 This section will have all the codes that were taught in the section
 
+### Note that the codes of those sections are not uploaded which do not have programs or projects in them 
+
 ### Section 2 practice codes:
 
 - [Section 2.1](./Section_2/2.1_Heading_Element/index.html) <br />
@@ -40,6 +42,7 @@ This section will have all the codes that were taught in the section
 
 - [Section 6.0](./Section_6/6.0_CSS_Colors/index.html) <br />
 - [Section 6.1](./Section_6/6.1_Font_Properties/index.html) <br />
+- [Section 6.3](./Section_6/6.3_CSS_Box_Model/index.html) <br />
 
 ## Projects
 
@@ -48,7 +51,7 @@ Here are the projects that were made by me in the duration of the course:
 - [Movie Ranking Project](./Section_2/2.4_Movie_Ranking_Project/index.html) <br />
 - [Birthday Invite Project](./Section_3/3.4_Birthday_Invite_Project/index.html) <br />
 - [HTML Portfolio Project](./Section_4/4.3_HTML_Portfolio_Project/index.html) <br />
-- [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html)
+- [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html) <br />
 
 ## Capstone Projects
 - [Capstone Project 1 - Online Resume](./Capstone_Projects/Project_1/index.html) <br />
