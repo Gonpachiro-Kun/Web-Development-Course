@@ -52,6 +52,7 @@ Here are the projects that were made by me in the duration of the course:
 - [Birthday Invite Project](./Section_3/3.4_Birthday_Invite_Project/index.html) <br />
 - [HTML Portfolio Project](./Section_4/4.3_HTML_Portfolio_Project/index.html) <br />
 - [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html) <br />
+- [Motivation Meme Project](./Section_6/6.4_Motivation_Meme_Project/index.html) <br />
 
 ## Capstone Projects
 - [Capstone Project 1 - Online Resume](./Capstone_Projects/Project_1/index.html) <br />
