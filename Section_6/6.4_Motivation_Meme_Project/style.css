@@ -17,8 +17,9 @@ img{
 
 p{
     color: white;
-    text-align: center;
-    font-size: 3rem;
+    text-align:center;
+    font-size: 2rem;
+    font-weight: 700;
 }
 
 div{
