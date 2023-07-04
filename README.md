@@ -1,6 +1,6 @@
 # Web Development
  
-This Repository contains all the projects and practice exercises that are there in the course ['The Complete 2023 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
+This Repository contains all the projects and coding exercises that are there in the course ['The Complete 2023 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
 
 Go to ➡️: [Section 2 - Introduction to HTML](./Section_2/)<br />
 Go to ➡️: [Section 3 - Intermediate HTML](./Section_3/)<br />
@@ -9,7 +9,7 @@ Go to ➡️: [Section 5 - Introduction to CSS](./Section_5/)<br />
 Go to ➡️: [Section 6 - CSS Properties](./Section_6/)<br />
 Go to ➡️: [Section 7 - Intermediate CSS](./Section_7/)<br />
 
-## Practice Codes
+## Coding Exercises
 
 This section will have all the codes that were taught in the section
 
@@ -48,6 +48,8 @@ This section will have all the codes that were taught in the section
 ### Section 7 practice codes:
 
 - [Section 7.0 - The Cascade (Specificity and Inheritance)](./Section_7/7.0_CSS_Cascade/index.html) <br />
+- [Section 7.1 - Combining CSS Selectors](./Section_7/7.1_Combining_Selectors/index.html) <br />
+- [Section 7.2 - CSS Positioning](./Section_7/7.2_CSS_Positioning/index.html) <br />
 
 ## Projects
 
@@ -58,6 +60,7 @@ Here are the projects that were made by me in the duration of the course:
 - [HTML Portfolio Project](./Section_4/4.3_HTML_Portfolio_Project/index.html) <br />
 - [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html) <br />
 - [Motivation Meme Project](./Section_6/6.4_Motivation_Meme_Project/index.html) <br />
+- [CSS Flag Project](./Section_7/7.3_CSS_Flag_Project/index.html) <br />
 
 ## Capstone Projects
 - [Capstone Project 1 - Online Resume](./Capstone_Projects/Project_1/index.html) <br />
