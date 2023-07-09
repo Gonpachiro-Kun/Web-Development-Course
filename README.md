@@ -57,6 +57,12 @@ This section will have all the codes that were taught in the section
 - [Section 7.2 - CSS Positioning](./Section_7/7.2_CSS_Positioning/index.html) <br />
 - [Section 7.3 - CSS Flag Project](./Section_7/7.3_CSS_Flag_Project/index.html) <br />
 
+### Section 8 practice codes:
+
+- Section 8.0 - CSS Display
+  - [Solution 1](./Section_8/8.0_CSS_Display/index_for_goal1.html) <br />
+  - [Solution 2](./Section_8/8.0_CSS_Display/index_for_goal2.html) <br />
+
 ## Projects
 
 I have highlighted the projects that were made by me in the duration of the course:
