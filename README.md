@@ -62,6 +62,7 @@ This section will have all the codes that were taught in the section
 - Section 8.0 - CSS Display
   - [Solution 1](./Section_8/8.0_CSS_Display/index_for_goal1.html) <br />
   - [Solution 2](./Section_8/8.0_CSS_Display/index_for_goal2.html) <br />
+- [Section 8.1 - CSS Float](./Section_8/8.1_CSS_Float/index.html) <br />
 
 ## Projects
 
