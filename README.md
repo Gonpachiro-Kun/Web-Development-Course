@@ -1,5 +1,5 @@
 # Web Development
- 
+
 This Repository contains all the projects and coding exercises that are there in the course ['The Complete 2023 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
 
 Go to ➡️: [Section 2 - Introduction to HTML](./Section_2/)<br />
@@ -13,7 +13,7 @@ Go to ➡️: [Section 7 - Intermediate CSS](./Section_7/)<br />
 
 This section will have all the codes that were taught in the section
 
-### Note that the codes of those sections are not uploaded which do not have programs or projects in them 
+### Note that the codes of those sections are not uploaded which do not have programs or projects in them
 
 ### Section 2 practice codes:
 
@@ -63,6 +63,7 @@ This section will have all the codes that were taught in the section
   - [Solution 1](./Section_8/8.0_CSS_Display/index_for_goal1.html) <br />
   - [Solution 2](./Section_8/8.0_CSS_Display/index_for_goal2.html) <br />
 - [Section 8.1 - CSS Float](./Section_8/8.1_CSS_Float/index.html) <br />
+- [Section 8.2 - How To Create Responsive Websites](./Section_8/8.2_Responsiveness/index.html) <br />
 
 ## Projects
 
@@ -76,6 +77,7 @@ I have highlighted the projects that were made by me in the duration of the cour
 - [CSS Flag Project](./Section_7/7.3_CSS_Flag_Project/index.html) <br />
 
 ## Capstone Projects
+
 - [Capstone Project 1 - Online Resume](./Capstone_Projects/Project_1/index.html) <br />
 
 ### The codes and files will be updated over time.
