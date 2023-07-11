@@ -64,7 +64,7 @@ This section will have all the codes that were taught in the section
   - [Solution 2](./Section_8/8.0_CSS_Display/index_for_goal2.html) <br />
 - [Section 8.1 - CSS Float](./Section_8/8.1_CSS_Float/index.html) <br />
 - [Section 8.2 - How To Create Responsive Websites](./Section_8/8.2_Responsiveness/index.html) <br />
-- [Section 8.3 - How To Create Responsive Websites](./Section_8/8.3_Media_Query/index.html) <br />
+- [Section 8.3 - Media Queries](./Section_8/8.3_Media_Query/index.html) <br />
 
 ## Projects
 
