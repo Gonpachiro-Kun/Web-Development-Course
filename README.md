@@ -8,6 +8,8 @@ Go to ➡️: [Section 4 - Multi-Page Websites](./Section_4/)<br />
 Go to ➡️: [Section 5 - Introduction to CSS](./Section_5/)<br />
 Go to ➡️: [Section 6 - CSS Properties](./Section_6/)<br />
 Go to ➡️: [Section 7 - Intermediate CSS](./Section_7/)<br />
+Go to ➡️: [Section 8 - Advanced CSS](./Section_8/)<br />
+Go to ➡️: [Section 9 - Flexbox](./Section_9/)<br />
 
 ## Coding Exercises
 
@@ -66,6 +68,11 @@ This section will have all the codes that were taught in the section
 - [Section 8.2 - How To Create Responsive Websites](./Section_8/8.2_Responsiveness/index.html) <br />
 - [Section 8.3 - Media Queries](./Section_8/8.3_Media_Query/index.html) <br />
 - [Section 8.4 - Web Design Agency Project](./Section_8/8.4_Web_Design_Agency_Project/index.html) <br />
+
+### Section 9 practice codes:
+
+- [Section 9.0 - Display: Flex](./Section_9/9.0_Display_Flex/index.html) <br />
+- [Section 9.1 - Flex Direction](./Section_9/9.1_Flex_Direction/index.html) <br />
 
 ## Projects
 
