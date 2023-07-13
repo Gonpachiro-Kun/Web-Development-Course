@@ -65,6 +65,7 @@ This section will have all the codes that were taught in the section
 - [Section 8.1 - CSS Float](./Section_8/8.1_CSS_Float/index.html) <br />
 - [Section 8.2 - How To Create Responsive Websites](./Section_8/8.2_Responsiveness/index.html) <br />
 - [Section 8.3 - Media Queries](./Section_8/8.3_Media_Query/index.html) <br />
+- [Section 8.4 - Web Design Agency Project](./Section_8/8.4_Web_Design_Agency_Project/index.html) <br />
 
 ## Projects
 
@@ -76,6 +77,7 @@ I have highlighted the projects that were made by me in the duration of the cour
 - [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html) <br />
 - [Motivation Meme Project](./Section_6/6.4_Motivation_Meme_Project/index.html) <br />
 - [CSS Flag Project](./Section_7/7.3_CSS_Flag_Project/index.html) <br />
+- [Web Design Agency Project](./Section_8/8.4_Web_Design_Agency_Project/index.html)
 
 ## Capstone Projects
 
