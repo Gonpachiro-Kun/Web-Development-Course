@@ -73,6 +73,7 @@ This section will have all the codes that were taught in the section
 
 - [Section 9.0 - Display: Flex](./Section_9/9.0_Display_Flex/index.html) <br />
 - [Section 9.1 - Flex Direction](./Section_9/9.1_Flex_Direction/index.html) <br />
+- [Section 9.4 - Flexbox Pricing Table Project](./Section_9/9.4_Flexbox_Pricing_Table_Project/index.html) <br />
 
 ## Projects
 
@@ -84,7 +85,8 @@ I have highlighted the projects that were made by me in the duration of the cour
 - [Colour Vocab Project](./Section_5/5.4_Color_Vocab_Project/index.html) <br />
 - [Motivation Meme Project](./Section_6/6.4_Motivation_Meme_Project/index.html) <br />
 - [CSS Flag Project](./Section_7/7.3_CSS_Flag_Project/index.html) <br />
-- [Web Design Agency Project](./Section_8/8.4_Web_Design_Agency_Project/index.html)
+- [Web Design Agency Project](./Section_8/8.4_Web_Design_Agency_Project/index.html) <br />
+- [Flexbox Pricing Table Project](./Section_9/9.4_Flexbox_Pricing_Table_Project/index.html) <br />
 
 ## Capstone Projects
 
