@@ -92,4 +92,4 @@ I have highlighted the projects that were made by me in the duration of the cour
 
 - [Capstone Project 1 - Online Resume](./Capstone_Projects/Project_1/index.html) <br />
 
-### The codes and files will be updated over time.
+### The codes and files will start being updated from June 2024.
