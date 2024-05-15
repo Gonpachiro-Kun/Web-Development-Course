@@ -75,6 +75,10 @@ This section will have all the codes that were taught in the section
 - [Section 9.1 - Flex Direction](./Section_9/9.1_Flex_Direction/index.html) <br />
 - [Section 9.4 - Flexbox Pricing Table Project](./Section_9/9.4_Flexbox_Pricing_Table_Project/index.html) <br />
 
+### Section 10 practice codes:
+
+- [Section 10.0 - Display: Grid](.Section_10/10.0_Display_Grid/index.html) <br />
+
 ## Projects
 
 I have highlighted the projects that were made by me in the duration of the course:
