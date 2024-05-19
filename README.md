@@ -79,6 +79,11 @@ This section will have all the codes that were taught in the section
 ### Section 10 practice codes:
 
 - [Section 10.0 - Display: Grid](./Section_10/10.0_Display_Grid/index.html) <br />
+- Section 10.1 - Grid Placement
+  - [Exercise 1](./Section_10/10.2_Grid_Placement/exercise1.html) <br />
+  - [Exercise 2](./Section_10/10.2_Grid_Placement/exercise2.html) <br />
+  - [Exercise 2](./Section_10/10.2_Grid_Placement/exercise3.html) <br />
+- [Section 10.2 - Display: Grid](./Section_10/10.2_Grid_Placement/) <br />
 
 ## Projects
 
@@ -92,6 +97,7 @@ I have highlighted the projects that were made by me in the duration of the cour
 - [CSS Flag Project](./Section_07/7.3_CSS_Flag_Project/index.html) <br />
 - [Web Design Agency Project](./Section_08/8.4_Web_Design_Agency_Project/index.html) <br />
 - [Flexbox Pricing Table Project](./Section_09/9.4_Flexbox_Pricing_Table_Project/index.html) <br />
+- [Mandorian Project](./Section_10/10.3_Mondrian_Project/index.html) <br />
 
 ## Capstone Projects
 

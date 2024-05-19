@@ -6,15 +6,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mondrian Project</title>
   <style>
-    .container {
+    body {
       display: flex;
-      justify-content: center;
       align-items: center;
+      justify-content: center;
+      height: 100vh;
     }
 
-    .red{
-      background-color: red;
+    .container {
       display: grid;
+      height: 748px;
+      width: 748px;
+      background-color: black;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 22px;
+      gap: 9px;
+    }
+
+    .item {
+      background-color: #F0F1EC;
+    }
+
+    .red {
+      background-color: #E72F24;
+    }
+
+    .white1 {
+      background-color: #F0F1EC;
+      grid-column: span 3;
+    }
+
+    .white2 {
+      background-color: #F0F1EC;
+      grid-row: span 2;
+    }
+
+    .white3 {
+      grid-area: 2 / 2 / 4 /4
+    }
+
+    .blue {
+      background-color: #004592;
+      border-bottom: 10px black solid;
+    }
+
+    .white4 {
+      background-color: ;
+      grid-row: span 2;
+    }
+
+    .yellow {
+      background-color: #F9D01E;
+      grid-area: 4 / 2 / 4 / 2
+    }
+
+    .gray {
+      background-color: #232629;
     }
 
     /* 
@@ -25,10 +72,6 @@
     Black: #232629
     Blue: #004592
     Yellow: #F9D01E
-
-    For dimensions, see dimensions.png image.
-    HINT: Remember you can't change the properties of grid lines.
-    But grid lines are transparent!
     */
   </style>
 </head>
@@ -36,15 +79,15 @@
 <body>
   <!-- Write your HTML here -->
   <div class="container">
-    <div class="red"></div>
-    <div class="white1"></div>
-    <div class="white2"></div>
-    <div class="white3"></div>
-    <div class="blue"></div>
-    <div class="white"></div>
-    <div class="yellow"></div>
-    <div class="white4"></div>
-    <div class="gray"></div>
+    <div class="item red"></div>
+    <div class="item white1"></div>
+    <div class="item white2"></div>
+    <div class="item white3"></div>
+    <div class="item blue"></div>
+    <div class="item white4"></div>
+    <div class="item yellow"></div>
+    <div class="item white5"></div>
+    <div class="item gray"></div>
 
   </div>
 </body>
