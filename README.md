@@ -11,6 +11,7 @@ Go to ➡️: [Section 7 - Intermediate CSS](./Section_07/)<br />
 Go to ➡️: [Section 8 - Advanced CSS](./Section_08/)<br />
 Go to ➡️: [Section 9 - Flexbox](./Section_09/)<br />
 Go to ➡️: [Section 10 - Grid](./Section_10/)<br />
+Go to ➡️: [Section 11 - Bootstrap](./Section_10/)<br />
 
 ## Coding Exercises
 
@@ -86,6 +87,12 @@ This section will have all the codes that were taught in the section
   - [Exercise 2](./Section_10/10.2_Grid_Placement/exercise2.html) <br />
   - [Exercise 2](./Section_10/10.2_Grid_Placement/exercise3.html) <br />
 - [Section 10.2 - Display: Grid](./Section_10/10.2_Grid_Placement/) <br />
+
+### Section 11 practice codes:
+
+- [Section 11.0 - Bootstrap Intro](./Section_11/11.0_Bootstrap_Intro/index.html) <br />
+- [Section 11.1 - Bootstrap Layout](./Section_11/11.1_Bootstrap_Layout/Bootstrap_Layout_Exercises.html) <br />
+- [Section 11.2 - Bootstrap Components](./Section_11/11.2_Bootstrap_Components/index.html) <br />
 
 ## Projects
 
