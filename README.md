@@ -1,6 +1,6 @@
 # Web Development
 
-This Repository contains all the projects and coding exercises that are there in the course ['The Complete 2023 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
+This Repository contains all the projects and coding exercises that are there in the course ['The Complete 2024 Web Development Bootcamp'](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu
 
 Go to ➡️: [Section 2 - Introduction to HTML](./Section_02/)<br />
 Go to ➡️: [Section 3 - Intermediate HTML](./Section_03/)<br />
@@ -15,6 +15,8 @@ Go to ➡️: [Section 10 - Grid](./Section_10/)<br />
 ## Coding Exercises
 
 This section will have all the codes that were taught in the section
+
+## Visit https://gonpachiro-kun.github.io/Web-Development-Course/ to check out the websites of the codes provided here
 
 ### Note that the codes of those sections are not uploaded which do not have programs or projects in them
 
