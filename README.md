@@ -107,6 +107,7 @@ I have highlighted the projects that were made by me in the duration of the cour
 - [Web Design Agency Project](./Section_08/8.4_Web_Design_Agency_Project/index.html) <br />
 - [Flexbox Pricing Table Project](./Section_09/9.4_Flexbox_Pricing_Table_Project/index.html) <br />
 - [Mandorian Project](./Section_10/10.3_Mondrian_Project/index.html) <br />
+- [TinDog Startup Website](./Section_11/11.3_TinDog_Project/index.html) <br />
 
 ## Capstone Projects
 
